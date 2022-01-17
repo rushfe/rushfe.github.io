@@ -5,7 +5,7 @@
 }
 
 .heading {
-  color: rebeccapurple;
+  color: rgb(138, 98, 179);
 }
 .nav-links {
   display: flex;
@@ -21,7 +21,7 @@
 
 .site-title {
   font-size: 3rem;
-  color: gray;
+  color: rgb(131, 130, 130);
   font-weight: 700;
   margin: 3rem 0;
 }
