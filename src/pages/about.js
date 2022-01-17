@@ -1,5 +1,6 @@
 import * as React from 'react'
 import Layout from '../components/layout'
+
 const AboutPage = () => {
   return (
     <Layout pageTitle="About Me">
@@ -7,4 +8,5 @@ const AboutPage = () => {
     </Layout>
   )
 }
+
 export default AboutPage
